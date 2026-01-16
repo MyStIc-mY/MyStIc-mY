@@ -28,7 +28,7 @@
 					border-radius: 10px;
 					position: relative;
 					overflow: hidden;
-					height: 300px;
+					height: 350px; /* Height badhai hai taaki text na kate */
 					display: flex;
 					flex-direction: column;
 					justify-content: center;
@@ -85,25 +85,37 @@
 					color: #fc00ff;
 				}
 				.subtitle {
-					font-size: 1.5em;
+					font-size: 2em;
 					color: #0ff;
-					margin-top: 10px;
-					letter-spacing: 2px;
+					margin-top: 15px;
+					letter-spacing: 3px;
 					animation: flicker 2s infinite;
+					font-weight: bold;
 				}
 				.description {
-					font-size: 1em;
+					font-size: 1.1em;
 					margin-top: 20px;
 					color: #aaa;
-					max-width: 80%;
+					max-width: 90%;
 				}
 				.highlight {
 					color: #0ff;
 					font-weight: bold;
 				}
 			</style>
+			
 			<div class="container">
 				<div class="glitch" data-text="MyStIc-mY">MyStIc-mY</div>
+				
+				<div class="subtitle">AMIT KUMAR</div>
+				
+				<div class="description">
+					<span class="highlight">PYTHON</span> | AI & FUTURE TECH | SKILLING YOUTH
+				</div>
+			</div>
+		</div>
+	</foreignObject>
+</svg>
 				
 				<div class="subtitle">AMIT KUMAR</div>
 				
