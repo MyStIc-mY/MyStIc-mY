@@ -1,46 +1,40 @@
-<svg width="800" height="300" viewBox="0 0 800 300" xmlns="http://www.w3.org/2000/svg">
-    <rect width="100%" height="100%" fill="#0a0a0a"/>
-    <defs>
-        <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-            <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#00ffff" stroke-width="1" opacity="0.1"/>
-        </pattern>
-    </defs>
-    <rect width="100%" height="100%" fill="url(#grid)" />
+<div align="center">
 
-    <g transform="translate(400, 140)">
-        <text x="0" y="0" font-family="Courier New, monospace" font-size="70" font-weight="bold" fill="#ff00ff" opacity="0.7" text-anchor="middle">
-            MyStIc-mY
-            <animateTransform attributeName="transform" type="translate" values="2,0; -2,2; 2,-2; -2,-2; 2,0" dur="0.3s" repeatCount="indefinite" />
-        </text>
-        <text x="0" y="0" font-family="Courier New, monospace" font-size="70" font-weight="bold" fill="#00ffff" opacity="0.7" text-anchor="middle">
-            MyStIc-mY
-            <animateTransform attributeName="transform" type="translate" values="-2,0; 2,-2; -2,2; 2,2; -2,0" dur="0.3s" repeatCount="indefinite" />
-        </text>
-        <text x="0" y="0" font-family="Courier New, monospace" font-size="70" font-weight="bold" fill="#ffffff" text-anchor="middle">
-            MyStIc-mY
-        </text>
-    </g>
+<a href="https://github.com/MyStIc-mY">
+    <img src="https://raw.githubusercontent.com/MyStIc-mY/MyStIc-mY/main/banner.svg?v=4" width="100%" alt="Mystic Cyber Banner">
+</a>
 
-    <text x="400" y="190" font-family="Courier New, monospace" font-size="22" fill="#00ffff" text-anchor="middle" letter-spacing="4">
-        AMIT KUMAR
-        <animate attributeName="opacity" values="1;0.5;1" dur="2s" repeatCount="indefinite" />
-    </text>
+<br/><br/>
 
-    <text x="400" y="230" font-family="Courier New, monospace" font-size="16" fill="#39ff14" text-anchor="middle" opacity="0">
-        &gt; PYTHON DEVELOPER_
-        <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.05;0.3;0.35;1" dur="12s" begin="0s" repeatCount="indefinite" />
-    </text>
+<p align="center">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/>
+  </a>
+  
+  <br/><br/> <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank">
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  </a>
+  
+  <br/><br/>
 
-    <text x="400" y="230" font-family="Courier New, monospace" font-size="16" fill="#39ff14" text-anchor="middle" opacity="0">
-        &gt; FUTURE AI ARCHITECT_
-        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.33;0.38;0.63;0.68;1" dur="12s" begin="0s" repeatCount="indefinite" />
-    </text>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  </a>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+</p>
 
-    <text x="400" y="230" font-family="Courier New, monospace" font-size="16" fill="#39ff14" text-anchor="middle" opacity="0">
-        &gt; BUILDING SKILZO_
-        <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.66;0.71;0.96;1" dur="12s" begin="0s" repeatCount="indefinite" />
-    </text>
-    
-    <line x1="50" y1="50" x2="750" y2="50" stroke="#00ffff" stroke-width="2" />
-    <line x1="50" y1="250" x2="750" y2="250" stroke="#00ffff" stroke-width="2" />
-</svg>
+<br/>
+
+<p align="center">
+  <a href="https://github.com/MyStIc-mY">
+    <img src="https://img.shields.io/github/followers/MyStIc-mY?label=Follow%20My%20Journey&style=social" alt="Followers"/>
+  </a>
+</p>
+
+</div>
