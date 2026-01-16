@@ -44,8 +44,5 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="1000" height="400"/>
 
 
-  <img src="https://github-readme-stats.vercel.app/api?username=MyStIc-mY&show_icons=true&theme=radical" alt="My Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyStIc-mY&layout=compact&theme=radical" alt="Top Languages" />
-
 
 </div>
