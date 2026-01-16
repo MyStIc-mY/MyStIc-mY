@@ -1,8 +1,12 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Amit%20Kumar&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20Learning%20AI&descAlignY=51&descAlign=62)
 <div align="center">
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2094F7&width=435&lines=Hello+World!;I+am+learning+Python;Always+Learning...;Welcome+to+my+Github!" alt="Typing SVG" />
-</a>
-</div>## 
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
+</div>
+<div align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=MyStIc-mY&show_icons=true&theme=radical" alt="My Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TERA_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
 
 <!--
 **MyStIc-mY/MyStIc-mY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
