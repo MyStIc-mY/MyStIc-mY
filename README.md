@@ -40,5 +40,5 @@
 
 
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=008000&text=FUTURE%20AI%20ARCHITECT&section=header&reversal=true&fontColor=FF0000&fontSize=68&fontAlign=53&fontAlignY=42&animation=scaleIn&stroke=008000&strokeWidth=1&desc=Python%20Developer%20|%20Learning%20AI&descAlign=76&descAlignY=54&descSize=23)
+[![Header]https://capsule-render.vercel.app/api?type=venom&height=300&color=008000&text=FUTURE%20AI%20ARCHITECT&section=header&reversal=true&fontColor=FF0000&fontSize=68&fontAlign=53&fontAlignY=42&animation=scaleIn&stroke=008000&strokeWidth=1&desc=Python%20Developer%20|%20Learning%20AI&descAlign=76&descAlignY=54&descSize=23
 </div>
