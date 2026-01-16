@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/MyStIc-mY/MyStIc-mY/master/banner.svg" width="100%" />
 
 <a href="https://github.com/MyStIc-mY">
-    <img src="PASTE_YOUR_RAW_LINK_HERE" width="100%" alt="Mystic Cyber Banner">
+   <img src="https://raw.githubusercontent.com/MyStIc-mY/MyStIc-mY/main/banner.svg" width="100%" alt="Mystic Cyber Banner">
 </a>
 
 <br/><br/>
