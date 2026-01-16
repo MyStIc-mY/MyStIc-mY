@@ -4,7 +4,7 @@
     <img src="https://raw.githubusercontent.com/MyStIc-mY/MyStIc-mY/master/banner.svg" width="100%" alt="Mystic Cyber Banner" />
 </a>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=50&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=AMIT+KUMAR;WELCOME+TO+MY+DIGITAL+SPACE" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=500&size=50&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=AMIT+KUMAR;WELCOME+TO+MY+DIGITAL+SPACE" alt="Typing SVG" />
 
 ### ⚡ Architecting the Future with Python & AI | Turning Logic into Intelligence 🧠
 
@@ -50,14 +50,6 @@
 </a>
 </p>
 
-<br/><br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-</p>
 
 </div>
