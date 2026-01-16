@@ -37,7 +37,7 @@
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=green&height=300&section=header&text=Amit%20Kumar&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20Learning%20AI&descAlignY=51&descAlign=62)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=#008000&height=300&section=header&text=Amit%20Kumar&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20Learning%20AI&descAlignY=51&descAlign=62)
 
 
 
