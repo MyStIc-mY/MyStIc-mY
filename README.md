@@ -37,9 +37,7 @@
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=MyStIc-mY&show_icons=true&theme=radical" alt="My Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TERA_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Amit%20Kumar&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20Learning%20AI&descAlignY=51&descAlign=62)
 
 
 
