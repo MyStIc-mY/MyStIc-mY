@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/MyStIc-mY">
-    <img src="https://raw.githubusercontent.com/MyStIc-mY/MyStIc-mY/main/banner.svg?v=4" width="100%" alt="Mystic Cyber Banner">
+    <img src="./banner.svg" width="100%" alt="Mystic Cyber Banner">
 </a>
 
 <br/><br/>
@@ -11,7 +11,9 @@
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/>
   </a>
   
-  <br/><br/> <a href="https://www.tensorflow.org/" target="_blank">
+  <br/><br/>
+
+  <a href="https://www.tensorflow.org/" target="_blank">
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   </a>
   <a href="https://pandas.pydata.org/" target="_blank">
@@ -27,14 +29,6 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   </a>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-</p>
-
-<br/>
-
-<p align="center">
-  <a href="https://github.com/MyStIc-mY">
-    <img src="https://img.shields.io/github/followers/MyStIc-mY?label=Follow%20My%20Journey&style=social" alt="Followers"/>
-  </a>
 </p>
 
 </div>
