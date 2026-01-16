@@ -4,21 +4,6 @@
         <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
             <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#00ffff" stroke-width="1" opacity="0.1"/>
         </pattern>
-
-        <clipPath id="typing-amit">
-            <rect x="250" y="170" width="0" height="30">
-                <animate attributeName="width" from="0" to="300" dur="3s" fill="freeze" begin="0.5s"/>
-            </rect>
-        </clipPath>
-
-        <clipPath id="typing-bottom">
-             <rect x="100" y="215" width="0" height="30">
-                <animate attributeName="width" 
-                         values="0; 600; 600; 0; 0; 600; 600; 0; 0; 600; 600; 0" 
-                         keyTimes="0; 0.15; 0.3; 0.33; 0.34; 0.49; 0.64; 0.67; 0.68; 0.83; 0.98; 1"
-                         dur="12s" repeatCount="indefinite" begin="3s"/>
-            </rect>
-        </clipPath>
     </defs>
 
     <rect width="100%" height="100%" fill="url(#grid)" />
@@ -37,31 +22,26 @@
         </text>
     </g>
 
-    <text x="400" y="190" font-family="Courier New, monospace" font-size="22" fill="#00ffff" text-anchor="middle" letter-spacing="4" clip-path="url(#typing-amit)">
+    <text x="400" y="190" font-family="Courier New, monospace" font-size="22" fill="#00ffff" text-anchor="middle" letter-spacing="4">
         AMIT KUMAR
+        <animate attributeName="opacity" values="0;1;1;0" dur="4s" repeatCount="indefinite" />
     </text>
 
-    <g font-family="Courier New, monospace" font-size="16" fill="#39ff14" text-anchor="middle" clip-path="url(#typing-bottom)">
-        
-        <text x="400" y="230" opacity="0">
-            > PYTHON DEVELOPER_
-            <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.3;0.33" dur="12s" repeatCount="indefinite" begin="3s"/>
-        </text>
-        
-        <text x="400" y="230" opacity="0">
-            > FUTURE AI ARCHITECT_
-            <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.33;0.34;0.63;0.66" dur="12s" repeatCount="indefinite" begin="3s"/>
-        </text>
-        
-        <text x="400" y="230" opacity="0">
-            > BUILDING SKILZO_
-            <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.66;0.67;0.96;1" dur="12s" repeatCount="indefinite" begin="3s"/>
-        </text>
-    </g>
+    <text x="400" y="230" font-family="Courier New, monospace" font-size="16" fill="#39ff14" text-anchor="middle" opacity="0">
+        &gt; PYTHON DEVELOPER_
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.9;1" dur="12s" begin="0s" repeatCount="indefinite" />
+    </text>
+
+    <text x="400" y="230" font-family="Courier New, monospace" font-size="16" fill="#39ff14" text-anchor="middle" opacity="0">
+        &gt; FUTURE AI ARCHITECT_
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.9;1" dur="12s" begin="4s" repeatCount="indefinite" />
+    </text>
+
+    <text x="400" y="230" font-family="Courier New, monospace" font-size="16" fill="#39ff14" text-anchor="middle" opacity="0">
+        &gt; BUILDING SKILZO_
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.9;1" dur="12s" begin="8s" repeatCount="indefinite" />
+    </text>
     
-    <line x1="50" y1="50" x2="750" y2="50" stroke="#00ffff" stroke-width="2" />
-    <line x1="50" y1="250" x2="750" y2="250" stroke="#00ffff" stroke-width="2" />
-</svg>
     <line x1="50" y1="50" x2="750" y2="50" stroke="#00ffff" stroke-width="2" />
     <line x1="50" y1="250" x2="750" y2="250" stroke="#00ffff" stroke-width="2" />
 </svg>
