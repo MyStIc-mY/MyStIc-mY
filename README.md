@@ -43,4 +43,9 @@
 ![Header](https://capsule-render.vercel.app/api?type=blur&height=300&color=008000&text=FUTURE%20AI%20ARCHITECT&section=header&reversal=true&fontColor=FF0000&fontSize=68&fontAlign=53&fontAlignY=42&animation=scaleIn&stroke=008000&strokeWidth=1&desc=Python%20Developer%20|%20Learning%20AI&descAlign=76&descAlignY=54&descSize=23)
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="1000" height="400"/>
 
+
+  <img src="https://github-readme-stats.vercel.app/api?username=MyStIc-mY&show_icons=true&theme=radical" alt="My Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyStIc-mY&layout=compact&theme=radical" alt="Top Languages" />
+
+
 </div>
