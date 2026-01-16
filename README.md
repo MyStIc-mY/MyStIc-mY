@@ -38,7 +38,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=TERA_GITHUB_USERNAME&show_icons=true&theme=radical" alt="My Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MyStIc-mY&show_icons=true&theme=radical" alt="My Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TERA_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
 
 
