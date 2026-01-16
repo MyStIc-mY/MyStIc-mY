@@ -1,4 +1,8 @@
-## Hi there 👋
+<div align="center">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2094F7&width=435&lines=Hello+World!;I+am+learning+Python;Always+Learning...;Welcome+to+my+Github!" alt="Typing SVG" />
+</a>
+</div>## 
 
 <!--
 **MyStIc-mY/MyStIc-mY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
