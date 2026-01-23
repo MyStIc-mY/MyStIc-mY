@@ -2,7 +2,7 @@
 
 
 
-  <img src="./neural-nodes.gif" width="100%" alt="Neural Nodes - Decoding AI" />
+  <img src="./Downloads/neural-nodes.gif" width="100%" alt="Neural Nodes - Decoding AI" />
   <br>
   <sub><b>🧠 Neural Nodes: Decoding the Future of AI</b></sub>
 </div>
