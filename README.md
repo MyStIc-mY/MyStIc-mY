@@ -1,8 +1,9 @@
 <div align="center">
 
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/8d1eca8e-43c0-498b-a915-df7338dab15a" width="100%" alt="Neural Nodes - Decoding AI" />
+<div align="center">!
+
+  <img src="![neural-nodes](https://github.com/user-attachments/assets/01012991-80f8-426d-8112-3ed467b558a7)" width="100%" alt="Neural Nodes - Decoding AI" />
   <br>
   <sub><b>🧠 Neural Nodes: Decoding the Future of AI</b></sub>
 </div>
