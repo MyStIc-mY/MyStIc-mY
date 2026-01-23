@@ -1,5 +1,13 @@
 <div align="center">
 
+
+
+  <img src="./neural-nodes.gif" width="100%" alt="Neural Nodes - Decoding AI" />
+  <br>
+  <sub><b>🧠 Neural Nodes: Decoding the Future of AI</b></sub>
+</div>
+<br>
+
 <a href="https://github.com/MyStIc-mY">
     <img src="https://raw.githubusercontent.com/MyStIc-mY/MyStIc-mY/master/banner.svg" width="100%" alt="Mystic Cyber Banner" />
 </a>
